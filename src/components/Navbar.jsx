@@ -1,10 +1,16 @@
-// import React from 'react';
+import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 // React icons
 import { FaDiscord, FaTwitter, FaInstagram, FaBars } from 'react-icons/fa';
 
 const Navbar = () => {
+	const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+	const toggleMenu = () => {
+		setIsMenuOpen(!isMenuOpen);
+	};
+
 	const navItems = [
 		{ path: '/', link: 'Home' },
 		{ path: '/about', link: 'About' },
@@ -44,8 +50,8 @@ const Navbar = () => {
 				</div>
 
 				<div className='md:hidden'>
-					<button className='cursor-pointer'>
-						<FaBars className='w-5 h-5' />{' '}
+					<button onClick={toggleMenu} className='cursor-pointer'>
+						<FaBars className='w-5 h-5' />
 					</button>
 				</div>
 			</nav>
