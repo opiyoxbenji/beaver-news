@@ -69,11 +69,15 @@ const Navbar = () => {
 			<div>
 				<ul
 					className={`md:hidden gap-12 text-lg block space-y-4 px-4 py-6 mt-14 bg-white ${
-						isMenuOpen ? 'fixed top-0 left-0 w-full transition-all ease-out' : 'hidden'
+						isMenuOpen
+							? 'fixed top-0 left-0 w-full transition-all ease-out'
+							: 'hidden'
 					}`}>
 					{navItems.map(({ path, link }) => (
 						<li className='text-black' key={path}>
-							<NavLink to={path}>{link}</NavLink>
+							<NavLink onClick={toggleMenu} to={path}>
+								{link}
+							</NavLink>
 						</li>
 					))}
 				</ul>
