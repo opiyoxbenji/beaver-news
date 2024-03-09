@@ -1,5 +1,8 @@
-import React from 'react';
+// import React from 'react';
 import { NavLink } from 'react-router-dom';
+
+// React icons
+import { FaDiscord, FaTwitter, FaInstagram, FaBars } from 'react-icons/fa';
 
 const Navbar = () => {
 	const navItems = [
@@ -9,10 +12,10 @@ const Navbar = () => {
 		{ path: '/contact', link: 'Contact' },
 	];
 	return (
-		<header className='bg-blue-950'>
-			<nav className='px-4 py-4'>
+		<header className='bg-blue-950 text-white'>
+			<nav className='px-4 py-4 max-w-7xl mx-auto flex justify-between items-center'>
 				<a href='/' className='text-xl font-bold text-white'>
-					Design<span className='text-purple-600'>DK</span>
+					Beaver<span className='text-purple-600'>News</span>
 				</a>
 
 				{/* Nav items */}
@@ -23,6 +26,28 @@ const Navbar = () => {
 						</li>
 					))}
 				</ul>
+
+				{/* Menu icons */}
+				<div className='text-white lg:flex gap-4 items-center hidden'>
+					<a href='/' className=' hover:text-purple-600'>
+						<FaDiscord />
+					</a>
+					<a href='/' className=' hover:text-purple-600'>
+						<FaTwitter />
+					</a>
+					<a href='/' className=' hover:text-purple-600'>
+						<FaInstagram />
+					</a>
+					<button className='bg-purple-500 px-6 py-2 font-medium rounded hover:bg-white hover:text-purple-500 transiton-all ease-in'>
+						Login
+					</button>
+				</div>
+
+				<div className='md:hidden'>
+					<button className='cursor-pointer'>
+						<FaBars className='w-5 h-5' />{' '}
+					</button>
+				</div>
 			</nav>
 		</header>
 	);
