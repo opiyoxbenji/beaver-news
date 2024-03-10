@@ -18,7 +18,7 @@ const BlogCards = ({ blogs, currentPage, selectedCategory, pageSize }) => {
 					<div>
 						<img src={blog.image} alt='' className='w-full' />
 					</div>
-					<h3 className='mt-4 mb-2 font-bold hover:text-orange-600 cursor-pointer'>
+					<h3 className='mt-4 mb-2 font-bold hover:text-purple-600 cursor-pointer'>
 						{blog.title}
 					</h3>
 					<p className='mb-2 text-gray-500'>
