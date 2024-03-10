@@ -16,3 +16,26 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+.pagination li {
+	margin: 0 5px;
+}
+
+.pagination a {
+	display: inline-block;
+	padding: 5px 10px;
+	border: 1px soild #ccc;
+	border-radius: 4px;
+	text-decoration: none;
+	color: #000;
+}
+
+.pagination a:hover {
+	background: #eee;
+}
+
+.pagination li.activePagination {
+	background: purple;
+	border-radius: 4px;
+	color: #fff;
+}

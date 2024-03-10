@@ -3,7 +3,7 @@ import React from 'react';
 const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
 	const totalPages = Math.ceil(blogs.length / pageSize);
 
-	const renderPagination = () => {
+	const renderPaginationLinks = () => {
 		return Array.from({ length: totalPages }, (_, i) => i + 1).map(
 			pageNumber => (
 				<li
@@ -18,6 +18,7 @@ const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
 			)
 		);
 	};
+
 	return (
 		<ul className='pagination my-8 flex-wrap gap-4'>
 			<li>
@@ -27,7 +28,7 @@ const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
 					Previous
 				</button>
 			</li>
-			<div>{renderPagination}</div>
+			<div className='flex gap-1'>{renderPaginationLinks()}</div>
 			<li>
 				<button
 					onClick={() => onPageChange(currentPage + 1)}
@@ -38,5 +39,4 @@ const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
 		</ul>
 	);
 };
-
 export default Pagination;
