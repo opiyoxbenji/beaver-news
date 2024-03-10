@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa6';
 
@@ -6,7 +6,7 @@ const Banner = () => {
 	return (
 		<div className='px-4 py-32 bg-blue-950 mx-auto'>
 			<div className='text-white text-center'>
-				<h1 className='text-5xl lg:text-6xl leading-snug font-bold mb-5'>
+				<h1 className='text-5xl lg:text-5xl leading-snug font-bold mb-5'>
 					Welcome to our Blog
 				</h1>
 				<p className='text-gray lg:w-3/5 mx-auto mb-5 font-primary'>
