@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import BlogCards from './BlogCards';
 
 const BlogPage = () => {
 	const [blogs, setBlogs] = useState([]);
@@ -14,7 +15,18 @@ const BlogPage = () => {
 		}
 		fetchBlogs();
 	}, []);
-	return <div>BlogPage</div>;
+	return (
+		<div>
+			{/* category section */}
+			<div>Page Category</div>
+
+			{/* blogCards section */}
+      <div><BlogCards blogs={ blogs} /></div>
+
+			{/* pagination section */}
+			<div>Paggg</div>
+		</div>
+	);
 };
 
 export default BlogPage;

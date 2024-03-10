@@ -1,86 +1,86 @@
 [
 	{
 		"id": 1,
-		"title": "Gear Up for the Thrill: Australian Grand Prix 2024 Preview",
-		"image": "https://example.com/australian-gp-circuit.jpg",
+		"title": "Bearman turns his dad into a star: 'Now probably more famous than me'",
+		"image": "https://cdn.gpblog.com/news/2024/03/09/v2_large_cc8055cd72113f8fcd3098afa4a6801e93087186.jpg",
 		"category": "Sports",
 		"author": "Racing Analyst",
 		"authorPic": "author9.jpg",
-		"published_date": "https://a.espncdn.com/i/venues/f1/day/241.svg",
+		"published_date": "March 10, 2024",
 		"reading_time": "6 minutes",
-		"content": "The 2024 Formula One season kicks off with the Australian Grand Prix at the iconic Melbourne Grand Prix Circuit...",
-		"tags": ["F1", "Australian GP", "Motorsport"]
+		"content": "With a podium finish, Oliver Bearman had certainly spoken of a dream debut in advance. With a seventh place in the Saudi Arabia Grand Prix, the Briton - the last-minute replacement for the ill Carlos Sainz - was also hugely delighted...",
+		"tags": ["F1", "Saudi Arabian GP", "Motorsport"]
 	},
 	{
 		"id": 2,
-		"title": "Hubble Telescope Captures Stunning Image of a Distant Galaxy Cluster",
-		"image": "https://example.com/hubble-galaxy.jpg",
-		"category": "Science",
-		"author": "Dr. David Jones",
+		"title": "What’s going on with the new bill that could ban TikTok?",
+		"image": "https://techcrunch.com/wp-content/uploads/2023/03/tiktok-ban.jpg?w=730&crop=1",
+		"category": "Social Media",
+		"author": "Taylor Hatmaker",
 		"authorPic": "author3.jpg",
-		"published_date": "March 7, 2024",
+		"published_date": "March 10, 2024",
 		"reading_time": "5 minutes",
-		"content": "The Hubble Space Telescope has captured a breathtaking image of a distant galaxy cluster, revealing a dazzling array of stars and galaxies...",
-		"tags": ["Space", "Astronomy", "Galaxy"]
+		"content": "After a surprise flurry of activity in the House this week, TikTok is the target of a new government push to separate...",
+		"tags": ["Social Media", "Politics"]
 	},
 	{
 		"id": 3,
 		"title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
-		"image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
+		"image": "https://qtxasset.com/cdn-cgi/image/w=850,h=478,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud5/media/image/SiemensHealthineers-CinematicReality-p6-o.jpg?VersionId=rFIuLDbH5JHdPrrS6X5CqPAVF_RGDqrX",
 		"category": "Health",
-		"author": "Darrell Etherington",
+		"author": "Conor Hale",
 		"authorPic": "author1.jpg",
-		"published_date": "October 4, 2023",
+		"published_date": "March 8, 2023",
 		"reading_time": "8 minutes",
-		"content": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-		"tags": ["Biotech", "Health"]
+		"content": "Siemens Healthineers is presenting an Apple Vision Pro app that would let surgeons turn real-life imaging scans into interactive holograms, allowing them to view a patient’s anatomy from the comfort of their own living rooms...",
+		"tags": ["Technology", "Health"]
 	},
 	{
 		"id": 4,
-		"title": "Rainforest raises $8.5M to help software companies embed financial services, payments",
-		"image": "https://techcrunch.com/wp-content/uploads/2015/02/shutterstock_128451140.jpg?w=430&h=230&crop=1",
-		"category": "Fintech",
-		"author": "Mary Ann Azevedo",
+		"title": "Why Signal ‘turned our architecture inside out’ for its latest privacy feature",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-3.jpg?w=1390&crop=1",
+		"category": "Security",
+		"author": "Devin Coldewey",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "February 9, 2024",
 		"reading_time": "5 minutes",
-		"content": "In November 2019, Andreessen Horowitz General Partner Angela Strange famously declared that, “Every company will be a fintech company.” Specifically, Strange projected that — in the not-too-d...",
-		"tags": ["Fintech", "Writing"]
+		"content": "Adding usernames to a messaging app may seem like a standard feature, but for Signal, such identifiers were anathema to its mission of total privacy and security — until now. The upcoming 7.0 version adds usernames, ...",
+		"tags": ["Security", "Writing"]
 	},
 	{
 		"id": 5,
-		"title": "Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Pow-Lab2.jpg?w=430&h=230&crop=1",
-		"category": "Startups",
-		"author": "Christine Hall",
+		"title": "Elon Musk switched on X calling by default: Here’s how to switch it off",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/03/twitter-x-phone-call.jpg?w=1390&crop=1",
+		"category": "Social Media",
+		"author": "Zack Whittaker",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "March 1, 2024",
 		"reading_time": "5 minutes",
-		"content": "Pow.bio intends to bring down the costs associated with biomanufacturing by reimagining of fermentation facility operations.",
-		"tags": ["Startups", "Writing"]
+		"content": "In his quest to turn a simple and functioning Twitter app into X, the everything app that doesn’t do anything very well, Elon Musk launched audio and video calling on X last week — and this new feature is switched on by default, it leaks your IP address to anyone you talk with.",
+		"tags": ["Social Media", "Writing"]
 	},
 	{
 		"id": 6,
-		"title": "Recapitalization, $60M Series D support growth of e-commerce financier Clearco",
-		"image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1314165902.jpg?w=430&h=230&crop=1",
-		"category": "Fintech",
-		"author": "Christine Hall",
+		"title": "Turnitin laid off staff earlier this year, after CEO forecast AI would allow it to cut headcount",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1390&crop=1",
+		"category": "AI",
+		"author": "Sarah Perez",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2024-02-25",
 		"reading_time": "5 minutes",
-		"content": "Today is news marks a turnaround for a company that is had its share of ups and downs over the past year.",
-		"tags": ["Blogging", "Writing"]
+		"content": "People worry that advances in AI will lead to job losses, but rarely does a company’s CEO openly admit that AI will help to reduce their headcount. Turnitin, a plagiarism detection company whose CEO Chris Caren last year warned that, in 18 months, his company would be able to reduce 20% of its headcount thanks to AI, is today confirming a small set of layoffs.",
+		"tags": ["AI", "Writing", "Technology"]
 	},
 	{
 		"id": 7,
-		"title": "Rabbit is building an AI model that understands how software works",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=430&h=230&crop=1",
-		"category": "AI",
-		"author": "Kyle Wiggers",
+		"title": "Bitcoin hits highs, Binance launches a crypto perfume and Coachella partners with OpenSea",
+		"image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1051659174.jpg?w=1390&crop=1",
+		"category": "Crypto",
+		"author": "Jacquelyn Melinek",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2023-01-07",
 		"reading_time": "5 minutes",
-		"content": "What if you could interact with any piece of software using natural language? Imagine typing in a prompt and having AI translate the instructions into machine-comprehendable commands, executing tas...",
+		"content": "To start things off, here’s a shameless plug: I went on Yahoo Finance last week for a roundtable discussion alongside Grayscale CEO Michael Sonnenshein, CoinDesk Indices managing director Andy Baehr and Matt Kohrs...",
 		"tags": ["AI", "Writing"]
 	},
 	{
@@ -97,27 +97,27 @@
 	},
 	{
 		"id": 9,
-		"title": "Yubico can now ship pre-registered security keys to its enterprise users",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/yubikey.jpg?w=430&h=230&crop=1",
-		"category": "Enterprise",
-		"author": "Frederic Lardinois",
+		"title": "The Complicated Choices in a Cup of Coffee",
+		"image": "https://earthnew.wpenginepowered.com/wp-content/uploads/2022/08/AdobeStock_109489577-cropped.jpg",
+		"category": "Food",
+		"author": "Gemma Alexander",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2024-02-06",
 		"reading_time": "5 minutes",
-		"content": "Physical security keys remain one of the best ways to secure user accounts, but the fact that new users have to register them before they can use them often adds quite a bit of friction. Yubico, th...",
-		"tags": ["Blogging", "Writing"]
+		"content": "Coffee can be complicated, and I’m not even talking about the heated debates over cold-brew versus percolator. Finding a truly sustainable cuppa might be impossible, but coffee’s carbon emissions can vary by up to 77%. A little education about your coffee choices makes it easier to shop your values. Coffee is made from the beans of a tropical tree that may...",
+		"tags": ["Food", "Writing"]
 	},
 	{
 		"id": 10,
 		"title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
-		"category": "Startups",
+		"category": "Growth",
 		"author": "Kyle Wiggers",
 		"authorPic": "author1.jpg",
 		"published_date": "2023-10-01",
 		"reading_time": "8 minutes",
 		"content": "Blackbird Labs, a hospitality tech company whose platform helps restaurants stay in touch with guests and incentivize them to dine out more frequently, today announced that it raised $24 million in...",
-		"tags": ["Startups", "Writing"]
+		"tags": ["Growth", "Writing"]
 	},
 	{
 		"id": 11,
@@ -133,14 +133,14 @@
 	},
 	{
 		"id": 12,
-		"title": "Yahoo spins out Vespa, its search tech, into an independent company",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?w=430&h=230&crop=1",
+		"title": "Adobe is making it easier to create social content on mobile with AI",
+		"image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1231677180.jpg?w=1390&crop=1",
 		"category": "AI",
-		"author": "Kyle Wiggers",
+		"author": "Aisha Malik",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2023-12-31",
 		"reading_time": "5 minutes",
-		"content": "Yahoo, otherwise known as the company that pays my salary (full disclosure: Yahoo owns TC), today announced that it’s spinning off Vespa, the big data serving engine, into an independent vent...",
+		"content": "Adobe is making it easier for users to create and publish social content on mobile, as the company announced today that it’s launching the latest version of the Adobe Express app in beta. With this update, Adobe is bringing its Firefly AI models directly into the app, allowing users to quickly create and edit social content using generative AI tools.",
 		"tags": ["AI", "Writing"]
 	},
 	{
@@ -1042,17 +1042,5 @@
 		"reading_time": "5 minutes",
 		"content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
 		"tags": ["Blogging", "Writing"]
-	},
-	{
-		"id": 83,
-		"title": "Ask Sophie: What are the options for replacing an L-1A visa?",
-		"image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
-		"category": "Startups",
-		"author": "Sophie Alcorn",
-		"authorPic": "author1.jpg",
-		"published_date": "October 4, 2023",
-		"reading_time": "4 minutes",
-		"content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
-		"tags": ["Work", "Blogging"]
 	}
 ]
