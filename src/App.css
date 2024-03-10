@@ -39,3 +39,8 @@ body {
 	border-radius: 4px;
 	color: #fff;
 }
+
+
+.active-button {
+	color: rgb(95, 4, 95);
+}
