@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaSquareXTwitter, FaInstagram } from 'react-icons/fa6';
+import { FaSquareXTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa6';
 
 const Footer = () => {
 	return (
@@ -135,16 +135,50 @@ const Footer = () => {
 						{/* newsletter */}
 						<div className='md:max-w-md lg:col-span-2 lg:mt-0 mt-5'>
 							<p className='font-medium tracking-wide text-white'>
-								Subscribe to our weekly newsletter
+								Subscribe to our weekly newsletter !
 							</p>
-							<form>
+							<form className='mt-4 flex flex-col md:flex-row'>
 								<input
 									type='email'
 									name='email'
 									id='email'
-									className='flex-grow w-full h-12 px-4 mb-3 transition duration-100 bg-white border-gray-500 rounded shadow-sm aspect-auto md:mr-1 md:mb-0 focus:border-purple-700 focus:outline-none'
+									className='flex-grow w-full h-12 px-4 mb-3 transition duration-100 bg-white border border-gray-500 rounded shadow-sm aspect-auto md:mr-2 md:mb-0 focus:border-purple-700 focus:outline-none'
 								/>
+								<button className='inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md hover:bg-purple-500 focus:outline-none border'>
+									Subscribe
+								</button>
 							</form>
+							<p className='mt-4 text-sm text-gray-500'>
+								Lorem ipsum dolor sit, amet consectetur
+								adipisicing elit. Deleniti obcaecati veritatis
+								et dolores nam nobis?
+							</p>
+						</div>
+					</div>
+
+					{/* copyright section */}
+					<div>
+						<div className='flex flex-col justify-between pt-5 pb-10 border-t border-gray-500 sm:flex-row'>
+							<p className='text-sm text-gray-500'>
+								© Copyright 2024 | No right reserved.
+							</p>
+							<div className='flex items-center mt-4 space-x-4 sm:mt-0'>
+								<a
+									href=''
+									className='text-gray-500 transition-all hover:text-orange-500'>
+									<FaSquareXTwitter className='h-6 w-6' />
+								</a>
+								<a
+									href=''
+									className='text-gray-500 transition-all hover:text-orange-500'>
+									<FaInstagram className='h-6 w-6' />
+								</a>
+								<a
+									href=''
+									className='text-gray-500 transition-all hover:text-orange-500'>
+									<FaLinkedin className='h-6 w-6' />
+								</a>
+							</div>
 						</div>
 					</div>
 				</div>
