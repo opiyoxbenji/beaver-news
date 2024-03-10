@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 // React icons
@@ -34,7 +34,11 @@ const Navbar = () => {
 				<ul className='md:flex gap-12 text-lg hidden'>
 					{navItems.map(({ path, link }) => (
 						<li className='text-white' key={path}>
-							<NavLink to={path}>{link}</NavLink>
+							<NavLink
+								className='active:bg-violet-700'
+								to={path}>
+								{link}
+							</NavLink>
 						</li>
 					))}
 				</ul>
