@@ -20,7 +20,7 @@ const Navbar = () => {
 	const navItems = [
 		{ path: '/', link: 'Home' },
 		{ path: '/about', link: 'About' },
-		{ path: '/blogs', link: 'Blogs' },
+		// { path: '/blogs', link: 'Blogs' }, // removed the blog page because it was redundant
 		{ path: '/contact', link: 'Contact' },
 	];
 	return (

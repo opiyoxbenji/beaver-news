@@ -3,7 +3,6 @@ import React from 'react';
 const CategorySelection = ({ onSelectCategory, activeCategory }) => {
 	const categories = [
 		'Sports',
-		'Technology',
 		'Health',
 		'Food',
 		'Security',
