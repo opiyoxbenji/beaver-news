@@ -19,7 +19,7 @@ const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
 		);
 	};
 	return (
-		<ul>
+		<ul className='pagination my-8 flex-wrap gap-4'>
 			<li>
 				<button
 					onClick={() => onPageChange(currentPage - 1)}
