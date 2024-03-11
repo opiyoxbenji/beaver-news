@@ -13,7 +13,7 @@ const Contact = () => {
 							Let's talk!
 						</h2>
 						<div className='dark:text-gray-400'>
-							Vivamus in nisl metus? Phasellus.
+							Fill in the form an start a conversation.
 						</div>
 					</div>
 					<img
