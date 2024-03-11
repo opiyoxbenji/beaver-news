@@ -13,12 +13,14 @@ const About = () => {
 						<h3 className='text-2xl font-bold leading-none sm:text-5xl'>
 							Meet our team
 						</h3>
-						<p className='max-w-2xl dark:text-gray-400 text-center'>
-							At a assumenda quas cum earum ut itaque commodi
-							saepe rem aspernatur quam natus quis nihil quod, hic
-							explicabo doloribus magnam neque, exercitationem
-							eius sunt!
-						</p>
+						<div className='text-center'>
+							<p className='max-w-2xl dark:text-gray-400'>
+								Lorem ipsum dolor sit amet consectetur
+								adipisicing elit. Rem porro, adipisci numquam
+								sequi molestias voluptatum voluptas quam? Et
+								aspernatur deleniti ipsum quia minus odit!
+							</p>
+						</div>
 					</div>
 					<div className='grid w-full grid-cols-1 gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-4'>
 						<div className='space-y-4'>
@@ -29,10 +31,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Benjamin Opiyo
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -85,10 +87,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Benjamin Opiyo
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -141,10 +143,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Benjamin Opiyo
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -197,10 +199,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Benjamin Opiyo
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -253,10 +255,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Colin Earle
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -309,10 +311,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Colin Earle
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -365,10 +367,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Colin Earle
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
@@ -421,10 +423,10 @@ const About = () => {
 							/>
 							<div className='flex flex-col items-center'>
 								<h4 className='text-xl font-semibold'>
-									Leroy Jenkins
+									Colin Earle
 								</h4>
 								<p className='text-sm dark:text-gray-400'>
-									Web developer
+									Alx Student
 								</p>
 								<div className='flex mt-2 space-x-2'>
 									<a
