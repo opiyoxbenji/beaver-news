@@ -13,6 +13,7 @@ const BlogCards = ({ blogs, currentPage, selectedCategory, pageSize }) => {
 		<div className='grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8'>
 			{filteredBlogs.map(blog => (
 				<Link
+					to={`/blogs/${blog.id}`}
 					key={blog.id}
 					className='p-5 shadow-lg rounded cursor-pointer'>
 					<div>
