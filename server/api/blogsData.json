@@ -11,17 +11,18 @@
 		"content": "With a podium finish, Oliver Bearman had certainly spoken of a dream debut in advance. With a seventh place in the Saudi Arabia Grand Prix, the Briton - the last-minute replacement for the ill Carlos Sainz - was also hugely delighted...",
 		"tags": ["F1", "Saudi Arabian GP", "Motorsport"]
 	},
+
 	{
 		"id": 2,
-		"title": "What’s going on with the new bill that could ban TikTok?",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/03/tiktok-ban.jpg?w=730&crop=1",
-		"category": "Social Media",
-		"author": "Taylor Hatmaker",
-		"authorPic": "author3.jpg",
-		"published_date": "March 10, 2024",
-		"reading_time": "5 minutes",
-		"content": "After a surprise flurry of activity in the House this week, TikTok is the target of a new government push to separate...",
-		"tags": ["Social Media", "Politics"]
+		"title": "Elon Musk says xAI will open-source Grok this week",
+		"image": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?w=730&crop=1",
+		"category": "AI",
+		"author": "Manish Singh",
+		"authorPic": "author1.jpg",
+		"published_date": "2023-10-01",
+		"reading_time": "6 minutes",
+		"content": "Elon Musk’s AI startup xAI will open-source Grok, its chatbot rivaling ChatGPT, this week, he said, days after suing OpenAI and complaining that the Microsoft-backed startup had deviated from its open source roots. AI released Grok last year, arming it with features including access to “real-time” information. ",
+		"tags": ["Startups", "Writing"]
 	},
 	{
 		"id": 3,
@@ -73,30 +74,18 @@
 	},
 	{
 		"id": 7,
-		"title": "Bitcoin hits highs, Binance launches a crypto perfume and Coachella partners with OpenSea",
-		"image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1051659174.jpg?w=1390&crop=1",
-		"category": "Crypto",
-		"author": "Jacquelyn Melinek",
-		"authorPic": "author1.jpg",
-		"published_date": "2023-01-07",
-		"reading_time": "5 minutes",
-		"content": "To start things off, here’s a shameless plug: I went on Yahoo Finance last week for a roundtable discussion alongside Grayscale CEO Michael Sonnenshein, CoinDesk Indices managing director Andy Baehr and Matt Kohrs...",
-		"tags": ["AI", "Writing"]
-	},
-	{
-		"id": 8,
-		"title": "Okta plans to weave AI across its entire identity platform using multiple models",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1350618660.jpg?w=430&h=230&crop=1",
+		"title": "Reach Security taps a company’s existing tools to fight cyber threats",
+		"image": "https://techcrunch.com/wp-content/uploads/2023/12/security-bryce-shadow-looming.jpg?w=730&crop=1",
 		"category": "Security",
-		"author": "Ron Miller",
+		"author": "Kyle Wiggers",
 		"authorPic": "author1.jpg",
 		"published_date": "2023-10-01",
 		"reading_time": "5 minutes",
-		"content": "One thing is clear this year: generative AI is having a tremendous impact on the software industry, and a week doesn’t pass without software companies announcing their plans to incorporate the seem...",
+		"content": "According to a 2023 survey from IANS and recruiting firm Artico Search, more than a third of chief information security officers (CISOs) kept their security spending the same — or slightly reduced — in 2023. A separate report from PwC suggests that one in five organizations will see their cybersecurity budgets stagnate or even shrink this year.",
 		"tags": ["Security", "Writing"]
 	},
 	{
-		"id": 9,
+		"id": 8,
 		"title": "The Complicated Choices in a Cup of Coffee",
 		"image": "https://earthnew.wpenginepowered.com/wp-content/uploads/2022/08/AdobeStock_109489577-cropped.jpg",
 		"category": "Food",
@@ -108,7 +97,7 @@
 		"tags": ["Food", "Writing"]
 	},
 	{
-		"id": 10,
+		"id": 9,
 		"title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
 		"category": "Growth",
@@ -120,7 +109,7 @@
 		"tags": ["Growth", "Writing"]
 	},
 	{
-		"id": 11,
+		"id": 10,
 		"title": "TC Startup Battlefield master class with Flourish Ventures: Defining early-stage product-market fit",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/battlefield-biotics-ai.jpg?w=430&h=230&crop=1",
 		"category": "Growth",
@@ -132,7 +121,7 @@
 		"tags": ["Growth", "Writing"]
 	},
 	{
-		"id": 12,
+		"id": 11,
 		"title": "Adobe is making it easier to create social content on mobile with AI",
 		"image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1231677180.jpg?w=1390&crop=1",
 		"category": "AI",
@@ -144,10 +133,10 @@
 		"tags": ["AI", "Writing"]
 	},
 	{
-		"id": 13,
+		"id": 12,
 		"title": "Okta acquires a16z-backed password manager Uno to develop a personal tier",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/03/Uno.jpg?w=430&h=230&crop=1",
-		"category": "Apps",
+		"category": "Security",
 		"author": "Ivan Mehta",
 		"authorPic": "author1.jpg",
 		"published_date": "2023-10-01",
@@ -156,7 +145,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 14,
+		"id": 13,
 		"title": "CoPilot, a training app that matches users with remote fitness coaches, raises $6.5M",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/copilot-screenshots.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -168,7 +157,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 15,
+		"id": 14,
 		"title": "Opsera, a DevOps platform geared toward enterprises, raises $12M",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -180,19 +169,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 16,
-		"title": "EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1459166551.jpg?w=430&h=230&crop=1",
-		"category": "AI",
-		"author": "Natasha Lomas",
-		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
-		"reading_time": "6 minutes",
-		"content": "Mainstream social media platforms could face limits on their ability to take down independent journalism that violates their terms and conditions under a proposal agreed by European Union lawmakers...",
-		"tags": ["Apps", "Writing"]
-	},
-	{
-		"id": 17,
+		"id": 15,
 		"title": "Make these 5 changes to avoid becoming the next cybersecurity headline",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
 		"category": "Work",
@@ -204,7 +181,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 18,
+		"id": 16,
 		"title": "Make these 5 changes to avoid becoming the next cybersecurity headline",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -216,7 +193,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 19,
+		"id": 17,
 		"title": "Open Banking led to a FinTech boom — As Brite raises $60M, account-to-account payment grows",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/04/hero-option-2-1.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -228,7 +205,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 20,
+		"id": 18,
 		"title": "Krafton India launches gaming incubator to expand local ecosystem",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/krafton-india-ceo-sean-hyunil-sohn.jpeg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -240,7 +217,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 21,
+		"id": 19,
 		"title": "Electric Hydrogen is the green hydrogen industry’s first unicorn",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -252,7 +229,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 22,
+		"id": 20,
 		"title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -264,7 +241,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 23,
+		"id": 21,
 		"title": "Spotify to include a selection of 150K audiobooks with its Premium subscription",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -276,7 +253,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 24,
+		"id": 22,
 		"title": "How an AI deepfake ad of MrBeast ended up on TikTok",
 		"image": "https://techcrunch.com/wp-content/uploads/2021/12/mrbeast-squid-game-remake-1.jpg?w=430&h=230&crop=1",
 		"category": "AI",
@@ -288,7 +265,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 25,
+		"id": 23,
 		"title": "You can now add PayPal and Venmo credit or debit cards to your Apple Wallet",
 		"image": "https://techcrunch.com/wp-content/uploads/2021/12/mrbeast-squid-game-remake-1.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -300,7 +277,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 26,
+		"id": 24,
 		"title": "The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Xencelabs-Pen-Display-24-6.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -312,7 +289,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 27,
+		"id": 25,
 		"title": "US lawmakers ask TikTok about its ByteDance ties after recent exec transfers between the companies",
 		"image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1177990253.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -324,7 +301,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 28,
+		"id": 26,
 		"title": "Sam Altman backs teens’ AI startup automating browser-native workflows",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/induced-ai.jpg?w=430&h=230&crop=1",
 		"category": "AI",
@@ -336,7 +313,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 29,
+		"id": 27,
 		"title": "Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-10.16.25-PM.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -348,19 +325,19 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 30,
-		"title": "Promova’s new feature helps people with dyslexia learn a new language",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/2.png?w=430&h=230&crop=1",
-		"category": "Apps",
-		"author": "Sarah Perez",
+		"id": 28,
+		"title": "Yolk is a social app where users swap custom live stickers — no text allowed",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/02/Yolk.gif?w=730&crop=1",
+		"category": "Social Media",
+		"author": "Taylor Hatmaker",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2024-02-29",
 		"reading_time": "6 minutes",
-		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
-		"tags": ["Startups", "Writing"]
+		"content": "With so much fresh competition in social apps right now — plus the usual set of social media platforms and messaging giants sucking up attention — it might feel like there’s precious little room to innovate in this slice of the consumer market. But the creators of a new iOS app called...",
+		"tags": ["Social Media", "Writing"]
 	},
 	{
-		"id": 31,
+		"id": 29,
 		"title": "Don’t sweat the valuation headlines, ByteDance is doing great",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248389907.jpg?w=430&h=230&crop=1",
 		"category": "Work",
@@ -371,20 +348,9 @@
 		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
 		"tags": ["Startups", "Writing"]
 	},
+
 	{
-		"id": 32,
-		"title": "PlanetScale forks MySQL to add vector support",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1244811487.jpg?w=430&h=230&crop=1",
-		"category": "Tech",
-		"author": "Sarah Perez",
-		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
-		"reading_time": "6 minutes",
-		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
-		"tags": ["Startups", "Writing"]
-	},
-	{
-		"id": 33,
+		"id": 30,
 		"title": "Osmoses gets $11M seed to bring its molecule-scale membranes to the hydrogen market",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/osmoses-production-line.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -395,20 +361,9 @@
 		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
 		"tags": ["Startups", "Writing"]
 	},
+
 	{
-		"id": 34,
-		"title": "SBF’s trial has started, this is how he and FTX got here",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1454050629.jpg?w=430&h=230&crop=1",
-		"category": "Tech",
-		"author": "Tim De Chant",
-		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
-		"reading_time": "6 minutes",
-		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
-		"tags": ["Startups", "Writing"]
-	},
-	{
-		"id": 35,
+		"id": 31,
 		"title": "Qobra raises $10.5 million for its real-time sales compensation tool",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Qobra-founders.jpeg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -420,7 +375,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 36,
+		"id": 32,
 		"title": "FBI most-wanted Russian hacker reveals why he burned his passport",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/mikhail-matveev-ransomware-most-wanted.png?w=430&h=230&crop=1",
 		"category": "Security",
@@ -432,7 +387,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 37,
+		"id": 33,
 		"title": "Motel One says ransomware gang stole customer credit card data",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/MO-Hotel-Hamburg-am-Michel-Outdoor-3.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -444,7 +399,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 38,
+		"id": 34,
 		"title": "LinkedIn goes big on new AI tools for learning, recruitment, marketing and sales, powered by OpenAI",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -456,7 +411,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 39,
+		"id": 35,
 		"title": "Dry Studio’s Black Diamond 75 is a gaming keyboard that actually looks good",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/15.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -468,7 +423,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 40,
+		"id": 36,
 		"title": "DoorDash tests a feature that rewards users for dining out, not ordering in",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -480,7 +435,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 41,
+		"id": 37,
 		"title": "Adapting to a world with higher interest rates — a guide for startups",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-109439584.jpg?w=430&h=230&crop=1",
 		"category": "Work",
@@ -492,19 +447,19 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 42,
-		"title": "Wattpad ditches ‘Paid Stories’ for a freemium model",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/05/wattpad-logo.jpg?w=430&h=230&crop=1",
-		"category": "Tech",
+		"id": 38,
+		"title": "Bluesky and Mastodon users are having a fight that could shape the next generation of social media",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/02/bluesky-mastodon-feud.jpg?w=730&crop=1",
+		"category": "Social Media",
 		"author": "Mohit Agarwal",
 		"authorPic": "author1.jpg",
 		"published_date": "2023-10-01",
 		"reading_time": "6 minutes",
-		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
-		"tags": ["Startups", "Writing"]
+		"content": "People on Bluesky and Mastodon are fighting over how to bridge the two decentralized social networks, and whether there should even be a bridge at all. Behind the snarky GitHub comments, these coding conflicts aren’t frivolous — in fact, they could shape the future of the internet. Mastodon is the most established decentralized social app...",
+		"tags": ["Social Media", "Startups", "Writing"]
 	},
 	{
-		"id": 43,
+		"id": 39,
 		"title": "Science lab automation and robotics startup Automata raises $40M",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/05_LINQ-BENCH_LAB_QUAD_BLUE-2-1536x864-copy-e1696332783997.png?w=430&h=230&crop=1",
 		"category": "Health",
@@ -516,7 +471,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 44,
+		"id": 40,
 		"title": "Meta planning ad-free subscription or tracking ads ‘choice’ in EU, per WSJ — in latest bid to keep snooping",
 		"image": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-surveillance-1.jpg?w=430&h=230&crop=1",
 		"category": "Security",
@@ -528,7 +483,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 45,
+		"id": 41,
 		"title": "Sparx wants to do for enterprise what Truebill did for consumer recurring bills",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/SaaS-final.png?w=430&h=230&crop=1",
 		"category": "Fintech",
@@ -540,7 +495,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 45,
+		"id": 42,
 		"title": "Ten Key Labs wants to simplify managing equity for startups",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1359478309.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -552,7 +507,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 46,
+		"id": 43,
 		"title": "HCVC is back with a new $75 million deep tech fund",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/HCVC-team.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -564,19 +519,19 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 47,
-		"title": "Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Cloaked-Privacy-2.jpeg?w=430&h=230&crop=1",
-		"category": "Apps",
+		"id": 44,
+		"title": "What’s next for Twitch? A big app redesign and more social sharing",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?w=730&crop=1",
+		"category": "Social Media",
 		"author": "Natasha Lomas",
 		"authorPic": "author1.jpg",
 		"published_date": "2023-10-01",
 		"reading_time": "6 minutes",
-		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
-		"tags": ["Startups", "Writing"]
+		"content": "In an open letter published on Wednesday, Twitch CEO Dan Clancy outlined the livestreaming company’s plans for 2024, with a focus on helping streamers grow their audiences even when they aren’t live....",
+		"tags": ["Social Media", "Writing"]
 	},
 	{
-		"id": 47,
+		"id": 45,
 		"title": "Unitary AI picks up $15M for its multimodal approach to video content moderation",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-01.44.37.png?w=430&h=230&crop=1",
 		"category": "Health",
@@ -588,7 +543,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 47,
+		"id": 46,
 		"title": "Tesla Autopilot arbitration win could set legal benchmark in auto industry",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1494766819.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -600,19 +555,19 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 48,
-		"title": "Google Pixel Event 2023: Everything you need to know about Pixel 8, Pixel Watch 2, Pixel Buds Pro, Android 14",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-9.06.01-AM.png?w=430&h=230&crop=1",
-		"category": "Gadgets",
-		"author": "Christine Hall",
+		"id": 47,
+		"title": "Follow qualifying for the 2024 Saudi Arabian Grand Prix here! ",
+		"image": "https://cdn.gpblog.com/news/2024/03/08/v2_large_d03d6bca31fa4328425c0e77b05dc8767affb83f.jpg",
+		"category": "Sports",
+		"author": "Matt Gretton",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2024-03-08",
 		"reading_time": "6 minutes",
-		"content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
-		"tags": ["Startups", "Writing"]
+		"content": "Qualifying for the 2024 Saudi Arabian Grand Prix is about to take place at the Jeddah Corniche Circuit. Max Verstappen secured pole position in Bahrain last week, but the gap wasn't as big as expected. The same can be said after practice in Saudi Arabia with Fernando Alonso sitting towards the top of the timesheets. Ferrari and Mercedes...",
+		"tags": ["F1", "Sports", "Writing"]
 	},
 	{
-		"id": 49,
+		"id": 48,
 		"title": "Pixel Buds Pro update will bring AirPods-like conversation detection and listening stats",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Google-Pixel-Buds-Pro-Bay-2.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -624,7 +579,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 50,
+		"id": 49,
 		"title": "Google Pixel 8 Pro first impressions",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Google-Pixel-8-Pro-Bay-04.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -636,7 +591,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 51,
+		"id": 50,
 		"title": "Google’s Pixel Watch 2 brings new sensors for improved health tracking",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Pixel-Watch-2-Lifestyle-Outdoor-Porcelain-Active-Sport1.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -648,7 +603,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 52,
+		"id": 51,
 		"title": "The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Xencelabs-Pen-Display-24-6.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -660,7 +615,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 53,
+		"id": 52,
 		"title": "Humane’s ‘Ai Pin’ debuts on the Paris runway",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-30-at-8.14.25%E2%80%AFAM.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -672,7 +627,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 54,
+		"id": 53,
 		"title": "Fitbit brings Pixel Watch features to the Charge 6",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Fitbit-Charge-6-Lifestyle-Pickleball-Stretch-Porcelain.jpeg?w=430&h=230&crop=1",
 		"category": "Health",
@@ -684,7 +639,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 55,
+		"id": 54,
 		"title": "Meta Quest 3 convinced me to love VR by downplaying the metaverse",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Darrell-Meta-Quest-3-e1695838907237.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -696,7 +651,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 56,
+		"id": 55,
 		"title": "Ray-Ban’s new Meta smart glasses will be able to translate text",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Meta-Ray-Ban-Stories-01.jpg?w=430&h=230&crop=1",
 		"category": "Gadgets",
@@ -708,7 +663,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 57,
+		"id": 56,
 		"title": "Ray-Ban Meta smart glasses livestream to Instagram and Facebook",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Meta_RayBan-Wojack-8674.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -720,7 +675,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 58,
+		"id": 57,
 		"title": "Xbox Cloud Gaming is coming to Meta Quest 3 in December",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-27-at-1.40.54%E2%80%AFPM.jpg?w=430&h=230&crop=1",
 		"category": "Tech",
@@ -732,19 +687,19 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 59,
-		"title": "Meta debuts generative AI features for advertisers",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
-		"category": "AI",
-		"author": "Sarah Perez",
+		"id": 58,
+		"title": "Remarkable rumour: 'U2 song could be a reason for Horner's resignation'",
+		"image": "https://cdn.gpblog.com/news/2024/03/10/v2_large_b2869aa211e9852d2956179546d9400800a0a44a.jpg",
+		"category": "Sports",
+		"author": "Kada Perez",
 		"authorPic": "author1.jpg",
 		"published_date": "October 4, 2023",
 		"reading_time": "5 minutes",
-		"content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
-		"tags": ["Blogging", "Writing"]
+		"content": "Christian Horner was accused of inappropriate behaviour, but Red Bull has debunked these accusations, stating that the team principal was nevertheless found innocent after an internal investigation. Still, it seems this story could have a tailspin. Jos Verstappen previously called on the team to sack Horner so that complete peace could be restored to the team....",
+		"tags": ["Sports", "F1", "Writing"]
 	},
 	{
-		"id": 60,
+		"id": 59,
 		"title": "Ask Sophie: What are the options for replacing an L-1A visa?",
 		"image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
 		"category": "Work",
@@ -756,7 +711,7 @@
 		"tags": ["Work", "Blogging"]
 	},
 	{
-		"id": 61,
+		"id": 60,
 		"title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
 		"category": "Health",
@@ -768,7 +723,7 @@
 		"tags": ["Biotech", "Health"]
 	},
 	{
-		"id": 62,
+		"id": 61,
 		"title": "Rainforest raises $8.5M to help software companies embed financial services, payments",
 		"image": "https://techcrunch.com/wp-content/uploads/2015/02/shutterstock_128451140.jpg?w=430&h=230&crop=1",
 		"category": "Fintech",
@@ -780,7 +735,7 @@
 		"tags": ["Fintech", "Writing"]
 	},
 	{
-		"id": 63,
+		"id": 62,
 		"title": "Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Pow-Lab2.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -792,7 +747,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 64,
+		"id": 63,
 		"title": "Recapitalization, $60M Series D support growth of e-commerce financier Clearco",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1314165902.jpg?w=430&h=230&crop=1",
 		"category": "Fintech",
@@ -804,7 +759,7 @@
 		"tags": ["Blogging", "Writing"]
 	},
 	{
-		"id": 65,
+		"id": 64,
 		"title": "Rabbit is building an AI model that understands how software works",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=430&h=230&crop=1",
 		"category": "AI",
@@ -816,7 +771,7 @@
 		"tags": ["AI", "Writing"]
 	},
 	{
-		"id": 66,
+		"id": 65,
 		"title": "Okta plans to weave AI across its entire identity platform using multiple models",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1350618660.jpg?w=430&h=230&crop=1",
 		"category": "Security",
@@ -828,7 +783,7 @@
 		"tags": ["Security", "Writing"]
 	},
 	{
-		"id": 67,
+		"id": 66,
 		"title": "Yubico can now ship pre-registered security keys to its enterprise users",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/yubikey.jpg?w=430&h=230&crop=1",
 		"category": "Enterprise",
@@ -840,7 +795,7 @@
 		"tags": ["Blogging", "Writing"]
 	},
 	{
-		"id": 68,
+		"id": 67,
 		"title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -852,7 +807,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 69,
+		"id": 68,
 		"title": "TC Startup Battlefield master class with Flourish Ventures: Defining early-stage product-market fit",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/battlefield-biotics-ai.jpg?w=430&h=230&crop=1",
 		"category": "Growth",
@@ -864,7 +819,7 @@
 		"tags": ["Growth", "Writing"]
 	},
 	{
-		"id": 70,
+		"id": 69,
 		"title": "Yahoo spins out Vespa, its search tech, into an independent company",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?w=430&h=230&crop=1",
 		"category": "AI",
@@ -876,31 +831,31 @@
 		"tags": ["AI", "Writing"]
 	},
 	{
-		"id": 71,
-		"title": "Okta acquires a16z-backed password manager Uno to develop a personal tier",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/03/Uno.jpg?w=430&h=230&crop=1",
-		"category": "Apps",
+		"id": 70,
+		"title": "Dailyhunt in talks to acquire social network startup Koo",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1239797521.jpg?w=600",
+		"category": "Social Media",
 		"author": "Ivan Mehta",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2023-12-01",
 		"reading_time": "5 minutes",
-		"content": "Okta, the U.S.-based identity mangement giant, announced today that it has acquired a password mangement app, Uno. The company said that Uno’s team will help speed up the public launch of the...",
-		"tags": ["Apps", "Writing"]
+		"content": "Media startup Dailyhunt is in advanced stages of talks to acquire the Bengaluru-headquartered social network Koo, two sources familiar with the matter told me. The potential deal under discussion involves a share-swap agreement and could be finalized within weeks, the sources added, requesting anonymity as the matter is private..",
+		"tags": ["Social Media", "Writing"]
+	},
+	{
+		"id": 71,
+		"title": "Meta cuts off third-party access to Facebook Groups, leaving developers and customers in disarray",
+		"image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1201955892.jpeg?w=730&crop=1",
+		"category": "Social Media",
+		"author": "Aisha Malik",
+		"authorPic": "author1.jpg",
+		"published_date": "2024-10-01",
+		"reading_time": "6 minutes",
+		"content": "The recent surprise announcement that Meta will soon be shutting down its Facebook Groups API is throwing some businesses and social media marketers into disarray. On January 23, Meta announced the release of its Facebook Graph API v19.0, which included the news that the company would be deprecating its existing Facebook Groups API. The latter, which is used by developers and businesses to schedule posts to Facebook Groups, will...",
+		"tags": ["Social Media", "Apps", "Writing"]
 	},
 	{
 		"id": 72,
-		"title": "CoPilot, a training app that matches users with remote fitness coaches, raises $6.5M",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/copilot-screenshots.jpg?w=430&h=230&crop=1",
-		"category": "Apps",
-		"author": "Aisha Malik",
-		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
-		"reading_time": "6 minutes",
-		"content": "CoPilot, a digital training app that matches users with one-on-one remote fitness coaches, has raised $6.5M in Series A-1 funding led by Jackson Square Ventures. The app, which has seen more than 1...",
-		"tags": ["Apps", "Writing"]
-	},
-	{
-		"id": 73,
 		"title": "Opsera, a DevOps platform geared toward enterprises, raises $12M",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -912,7 +867,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 74,
+		"id": 73,
 		"title": "EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1459166551.jpg?w=430&h=230&crop=1",
 		"category": "AI",
@@ -924,19 +879,19 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 75,
-		"title": "Make these 5 changes to avoid becoming the next cybersecurity headline",
-		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
-		"category": "Work",
+		"id": 74,
+		"title": "Pew report shows TikTok’s rise and YouTube’s ubiquity",
+		"image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1146032078.jpg?w=730&crop=1",
+		"category": "Social Media",
 		"author": "Jim Broome",
 		"authorPic": "author1.jpg",
-		"published_date": "2023-10-01",
+		"published_date": "2021-10-01",
 		"reading_time": "6 minutes",
-		"content": "Recent incidents, such as the breach at MGM Resorts, serve as stark reminders of the potential consequences of inadequate security measures.",
+		"content": "Social media apps can rise quickly and burn out just as fast, but taking a step back and looking at those trends on a longer timeline offers a better glimpse at the big picture. The Pew Research Center’s latest report on Americans’ social media habits is out, rounding up social media usage trends among U.S. users over the last two years. While...",
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 76,
+		"id": 75,
 		"title": "Make these 5 changes to avoid becoming the next cybersecurity headline",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
 		"category": "Apps",
@@ -948,7 +903,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 77,
+		"id": 76,
 		"title": "Open Banking led to a FinTech boom — As Brite raises $60M, account-to-account payment grows",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/04/hero-option-2-1.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -960,7 +915,7 @@
 		"tags": ["Apps", "Writing"]
 	},
 	{
-		"id": 78,
+		"id": 77,
 		"title": "Krafton India launches gaming incubator to expand local ecosystem",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/krafton-india-ceo-sean-hyunil-sohn.jpeg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -972,7 +927,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 79,
+		"id": 78,
 		"title": "Electric Hydrogen is the green hydrogen industry’s first unicorn",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?w=430&h=230&crop=1",
 		"category": "Security",
@@ -984,7 +939,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 80,
+		"id": 79,
 		"title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
 		"category": "Startups",
@@ -996,7 +951,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 1,
+		"id": 80,
 		"title": "Meta debuts generative AI features for advertisers",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
 		"category": "AI",
@@ -1008,19 +963,19 @@
 		"tags": ["Blogging", "Writing"]
 	},
 	{
-		"id": 2,
-		"title": "Ask Sophie: What are the options for replacing an L-1A visa?",
-		"image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
-		"category": "Work",
+		"id": 81,
+		"title": "Social networks are getting stingy with their data, leaving third-party developers in the lurch",
+		"image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1454496437.jpg?w=730&crop=1",
+		"category": "Social Media",
 		"author": "Sophie Alcorn",
 		"authorPic": "author1.jpg",
 		"published_date": "October 4, 2023",
 		"reading_time": "4 minutes",
-		"content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
-		"tags": ["Work", "Blogging"]
+		"content": "2023 was the year social networks realized that they were sitting on massive troves of data. And some companies, such as Twitter (now X) and Reddit, decided to change their terms to shut out third-party experiences on these platforms. In the process, they also put a price on their data — something they believe is highly valuable today as it can be used to train AI models.",
+		"tags": ["Social Media", "Work", "Blogging"]
 	},
 	{
-		"id": 81,
+		"id": 82,
 		"title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
 		"image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
 		"category": "Security",
@@ -1032,7 +987,7 @@
 		"tags": ["Startups", "Writing"]
 	},
 	{
-		"id": 82,
+		"id": 83,
 		"title": "Meta debuts generative AI features for advertisers",
 		"image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
 		"category": "Security",
@@ -1042,5 +997,161 @@
 		"reading_time": "5 minutes",
 		"content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
 		"tags": ["Blogging", "Writing"]
+	},
+	{
+		"id": 84,
+		"title": "Reddit downplays risks of developer backlash, decentralized social media in its IPO filing",
+		"image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-logo-broken.jpg?w=730&crop=1",
+		"category": "Social Media",
+		"author": "Zack Whittaker",
+		"authorPic": "author1.jpg",
+		"published_date": "March 1, 2024",
+		"reading_time": "5 minutes",
+		"content": "Reddit’s long-awaited IPO is nearing, promising to be the largest social media IPO since Pinterest. But in the company’s S-1 filing, Reddit fails to fully address the complications that arose from changes to its developer platform and API pricing, which late last year led to site-wide protests, communities going dark, site stability issues, and traffic declines as moderators and ...",
+		"tags": ["Social Media", "Writing"]
+	},
+	{
+		"id": 85,
+		"title": "Espargaro was '100% sure' of victory before 'nightmare' Qatar MotoGP race",
+		"image": "https://cdn-2.motorsport.com/images/amp/YP3wZ9B2/s900/aleix-espargaro-aprilia-racing.webp",
+		"category": "Sports",
+		"author": "Racing Analyst",
+		"authorPic": "author9.jpg",
+		"published_date": "June 10, 2023",
+		"reading_time": "6 minutes",
+		"content": "With a podium finish, Oliver Bearman had certainly spoken of a dream debut in advance. With a seventh place in the Saudi Arabia Grand Prix, the Briton - the last-minute replacement for the ill Carlos Sainz - was also hugely delighted...",
+		"tags": ["MotoGp", "Qatar GP", "Motorsport"]
+	},
+	{
+		"id": 86,
+		"title": "MotoGP Qatar GP: Bagnaia dominates from Binder; Marquez fourth",
+		"image": "https://cdn-4.motorsport.com/images/amp/6gp9Vnl0/s900/brad-binder-red-bull-ktm-facto-2.webp",
+		"category": "Sports",
+		"author": "Racing Analyst",
+		"authorPic": "author9.jpg",
+		"published_date": "April 10, 2024",
+		"reading_time": "6 minutes",
+		"content": "Sprint winner Jorge Martin got the holeshot from pole position on his Pramac Ducati, but Bagnaia got an even better launch from fifth on the grid to slot into second position. Eager not to allow Martin to run away at the front, Bagnaia wasted little time in making a move on his 2023 title rival, throwing his factory Ducati up the inside into Turn 4 to snatch the lead straight away.",
+		"tags": ["MotoGp", "Qatar GP", "Motorsport"]
+	},
+	{
+		"id": 87,
+		"title": "2024 Aprilia MotoGP bike like an F1 car in Qatar corners - Espargaro ",
+		"image": "https://cdn-8.motorsport.com/images/amp/6gp9kxx0/s900/aleix-espargaro-aprilia-racing.webp",
+		"category": "Sports",
+		"author": "Racing Analyst",
+		"authorPic": "author9.jpg",
+		"published_date": "Feb 10, 2024",
+		"reading_time": "6 minutes",
+		"content": "Aprilia overhauled its V4-powered RS-GP over the winter, with its new aerodynamic concept turning heads when it was seen for the first time at the Sepang test last month. The updated bike appears to be a clear step forward over 2023, with Espargaro enjoying a strong run to third in the half-distance race in Qatar on Saturday, finishing right behind race winner Jorge Martin (Pramac) and second-placed Brad Binder (KTM).",
+		"tags": ["MotoGp", "Qatar GP", "Motorsport"]
+	},
+	{
+		"id": 88,
+		"title": "Toyota boss Latvala feels parts of future WRC vision 'too aggressive'",
+		"image": "https://cdn-2.motorsport.com/images/amp/Yv8Nz5x0/s900/elfyn-evans-scott-martin-toyot.webp",
+		"category": "Sports",
+		"author": "Racing Analyst",
+		"authorPic": "author9.jpg",
+		"published_date": "January 20, 2024",
+		"reading_time": "6 minutes",
+		"content": "The world motorsport governing body revealed its proposed roadmap for the future of rallying last week which includes changes to technical and sporting regulations, alongside a plan to improve the championship's promotion. The vision includes changes that will be implemented from next year chief among them the removal of hybrid power from Rally1 cars. The cars, introduced in 2022, will also undergo a reduction in both aerodynamics and the vehicle's air restrictor.",
+		"tags": ["Rally", "Motorsport"]
+	},
+	{
+		"id": 89,
+		"title": "The top 10 female racers of all time ",
+		"image": "https://cdn-5.motorsport.com/images/amp/0L1qKoJ2/s900/jutta-kleinschmidt-abt-cupra-x.webp",
+		"category": "Sports",
+		"author": "Racing Analyst",
+		"authorPic": "author9.jpg",
+		"published_date": "May 10, 2024",
+		"reading_time": "6 minutes",
+		"content": "My first ideas for the top 10 female race and rally drivers of all time included entries from all over the world, maybe with one or two unsung heroines and some historical pioneers. However, looking at the cold, hard statistics of the best and fastest women of their day gave a different picture. Motorsport has had a far bigger share of female success than we think, and that’s even in the modern era, without trying to draw equivalence between Brooklands races and 1930s rallies and their present-day counterparts.",
+		"tags": ["Rally", "Motorsport"]
+	},
+	{
+		"id": 90,
+		"title": "WRC teams react to FIA’s vision for the future ",
+		"image": "https://cdn-4.motorsport.com/images/amp/2QzqNePY/s900/esapekka-lappi-janne-ferm-hyun.webp",
+		"category": "Sports",
+		"author": "Racing Analyst",
+		"authorPic": "author9.jpg",
+		"published_date": "March 10, 2024",
+		"reading_time": "6 minutes",
+		"content": "The extensive concept revealed by the governing body this week features a raft of significant changes to the WRC's technical and sporting regulations, alongside a plan to address the championship's promotion. The vision aims to attract more manufacturer participation and grow the championship.Perhaps its most bold decision is to remove the control hybrid units from Rally1 cars for the 2025 season. Hybrid power formed a significant part of the new Rally1 regulations introduced in 2022, and the changes mean the cars in their current form won't see out the original five-year homologation cycle.",
+		"tags": ["MotoGp", "Qatar GP", "Motorsport"]
+	},
+	{
+		"id": 91,
+		"title": "How Much to Feed My Sourdough Starter",
+		"image": "https://natashaskitchen.com/wp-content/uploads/2024/03/Sourdough-Starter-How-to-Feed-6.jpg",
+		"category": "Food",
+		"author": "Manish Singh",
+		"authorPic": "author1.jpg",
+		"published_date": "2023-10-01",
+		"reading_time": "6 minutes",
+		"content": "The key to making amazing sourdough bread is knowing how to feed sourdough starter so it is healthy and ready to bake whenever you get the itch. Maintaining the starter only takes a few minutes and just two ingredients. Once you have an active sourdough starter, whether you’ve grown it yourself (see our easy Sourdough Starter Recipe), purchased a starter, or received one as a gift, you’ll need to feed it to maintain and keep it alive.",
+		"tags": ["Startups", "Writing"]
+	},
+	{
+		"id": 92,
+		"title": "Blueberry Scones Recipe and an easy Garden Salad Recipe",
+		"image": "https://natashaskitchen.com/wp-content/uploads/2023/08/Blueberry-Scones.jpg",
+		"category": "Food",
+		"author": "Manish Natasha",
+		"authorPic": "author1.jpg",
+		"published_date": "2023-10-01",
+		"reading_time": "6 minutes",
+		"content": "he combination of blueberries and lemon is a flavor match made in heaven. Our popular Blueberry Muffins, delicious Lemon Blueberry Dutch Baby, or our famous Blueberry Lemon Cake, are all crowd-pleasers, and we know these Blueberry Scones with Lemon Glaze will be no different...",
+		"tags": ["Startups", "Writing"]
+	},
+	{
+		"id": 93,
+		"title": "The Best Chicken Salad Recipe & The Best Chicken Salad Dressing",
+		"image": "https://natashaskitchen.com/wp-content/uploads/2021/06/Chicken-Salad-2.jpg",
+		"category": "Food",
+		"author": "Manish Natasha",
+		"authorPic": "author1.jpg",
+		"published_date": "2023-10-01",
+		"reading_time": "6 minutes",
+		"content": "This is the ultimate chicken salad recipe! We call this ‘fancy’ Chicken Salad because of the dressing, grapes, and pecans, but it’s truly easy. This is a fresher and lightened-up version of classic chicken salad and it’s perfect for meal prep.This is the perfect side dish or main course. It’s especially easy if you use leftover rotisserie chicken. Watch the video tutorial and see how simple it is. ",
+		"tags": ["Startups", "Writing"]
+	},
+	{
+		"id": 94,
+		"title": "The Shamrock Shake Is Briefly Back at McDonald’s, but You Can Make This Copycat Version at Home Year Round",
+		"image": "https://www.seriouseats.com/thmb/zCMfxX73eSz75R8ibjqzW5wseqE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20240305-SEA-ShamrockShake-Amanda-Suarez-new-hero-825c7913efe84430b3f6435d34aa2afa.jpg",
+		"category": "Food",
+		"author": "Manish Natasha",
+		"authorPic": "author1.jpg",
+		"published_date": "2023-10-01",
+		"reading_time": "6 minutes",
+		"content": "Few things in life are certain. Death, taxes and… McDonald’s Shamrock Shake. At the end of winter every year, with the first sight of buds on trees, the promising scent of spring in the air, and just in time to celebrate all things green for St. Patty’s Day, you can count on McDonald’s to release their beloved minty green Shamrock Shake.",
+		"tags": ["Startups", "Writing"]
+	},
+	{
+		"id": 95,
+		"title": "Breville Sells a Knock Box That's Like a Vacuum for Espresso Pucks, but Does It Work?",
+		"image": "https://www.seriouseats.com/thmb/PZRaK7pQoErI3sEiQtX5Wa5imZ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sea-espresso-machines-test-breville-puck-knock-box-nsimpson-239-3eb01bf22fc544c7a09bdffd714bad41.jpeg",
+		"category": "Food",
+		"author": "Manish Natasha",
+		"authorPic": "author1.jpg",
+		"published_date": "2023-10-01",
+		"reading_time": "6 minutes",
+		"content": "Go into the nearest coffee shop and you’ll likely hear the thwacking of baristas knocking out spent espresso pucks.Espresso machines use a pump to force nine bars of pressure—around 130 pounds per square inch—through coffee, leaving dried",
+		"tags": ["Startups", "Writing"]
+	},
+	{
+		"id": 96,
+		"title": "Artificially Sweetened Drinks Can Raise Risk of Atrial Fibrillation by 20 Percent",
+		"image": "https://images.everydayhealth.com/images/news/soda-raises-the-risk-of-afib-1440x810.jpg?sfvrsn=56baff49_3",
+		"category": "Health",
+		"author": "Lisa Hale",
+		"authorPic": "author1.jpg",
+		"published_date": "March 8, 2023",
+		"reading_time": "8 minutes",
+		"content": "Soft drinks that contain sugar or artificial sweeteners are associated with an increased risk for atrial fibrillation, a heart rhythm disorder that can lead to blood clots and strokes, a new study suggests. For the study, researchers examined data on more than 200,000 people without any history of atrial fibrillation who completed detailed dietary questionnaires. Scientists wanted to see whether their risk of developing atrial fibrillation might vary based on their consumption of sugary beverages, artificially sweetened drinks, or pure fruit juices.",
+		"tags": ["Technology", "Health"]
 	}
 ]
