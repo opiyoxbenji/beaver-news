@@ -9,9 +9,11 @@ import {
 	FaBars,
 	FaXmark,
 } from 'react-icons/fa6';
+import Modal from './Modal';
 
 const Navbar = () => {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
+	const [isModalOpen, setIsModalOpen] = useState(false);
 
 	const toggleMenu = () => {
 		setIsMenuOpen(!isMenuOpen);
@@ -23,6 +25,15 @@ const Navbar = () => {
 		// { path: '/blogs', link: 'Blogs' }, // removed the blog page because it was redundant
 		{ path: '/contact', link: 'Contact' },
 	];
+
+	// modal details
+	const openModal = () => {
+		setIsModalOpen(true);
+	};
+
+	const closeModal = () => {
+		setIsModalOpen(false);
+	};
 	return (
 		<header className='bg-blue-950 text-white fixed top-0 left-0 right-0'>
 			<nav className='px-4 py-4 max-w-7xl mx-auto flex justify-between items-center'>
@@ -34,9 +45,7 @@ const Navbar = () => {
 				<ul className='md:flex gap-12 text-lg hidden'>
 					{navItems.map(({ path, link }) => (
 						<li className='text-white' key={path}>
-							<NavLink
-								className='active:bg-violet-700'
-								to={path}>
+							<NavLink className='active:bg-violet-700' to={path}>
 								{link}
 							</NavLink>
 						</li>
@@ -54,11 +63,15 @@ const Navbar = () => {
 					<a href='/' className=' hover:text-purple-600'>
 						<FaInstagram />
 					</a>
-					<button className='bg-purple-500 px-6 py-2 font-medium rounded hover:bg-white hover:text-purple-500 transiton-all ease-in'>
+					<button onClick={openModal} className='bg-purple-500 px-6 py-2 font-medium rounded hover:bg-white hover:text-purple-500 transiton-all ease-in'>
 						Login
 					</button>
 				</div>
 
+				{/* modal component */}
+				<Modal isOpen={isModalOpen} onClose={closeModal} />
+
+				{/* mobile menu btn */}
 				<div className='md:hidden'>
 					<button onClick={toggleMenu} className='cursor-pointer'>
 						{isMenuOpen ? (
