@@ -8,7 +8,7 @@ const CategorySelection = ({ onSelectCategory, activeCategory }) => {
 		'Security',
 		'AI',
 		'Social Media',
-		'Crypto',
+		'Tech',
 	];
 	return (
 		<div className='px-4 mb-8 lg:space-x-16 flex flex-wrap items-center border-b-2 py-5 text-gray-900 font-semibold'>
