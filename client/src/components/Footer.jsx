@@ -118,13 +118,13 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<span className='flex items-center text-gray-500 transition-colors duration-300 hover:text-purple-500'>
+									<span className='flex items-center text-gray-500 cursor-pointer transition-colors duration-300 hover:text-purple-500'>
 										<FaInstagram />
 										<span className='ml-2'>Instagram</span>
 									</span>
 								</li>
 								<li>
-									<span className='flex items-center text-gray-500 transition-colors duration-300 hover:text-purple-500'>
+									<span className='flex items-center text-gray-500 cursor-pointer transition-colors duration-300 hover:text-purple-500'>
 										<FaSquareXTwitter />
 										<span className='ml-2'>Twitter</span>
 									</span>
