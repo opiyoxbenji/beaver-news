@@ -54,16 +54,30 @@ const Navbar = () => {
 
 				{/* Menu icons */}
 				<div className='text-white lg:flex gap-4 items-center hidden'>
-					<a href='/' className=' hover:text-purple-600'>
+					<a
+						href='https://discord.com/users/1068927035994554419'
+						target='_blank'
+						rel='noopener noreferrer'
+						className=' hover:text-purple-600'>
 						<FaDiscord />
 					</a>
-					<a href='/' className=' hover:text-purple-600'>
+					<a
+						href='https://twitter.com/Opiyos_Benji'
+						target='_blank'
+						rel='noopener noreferrer'
+						className=' hover:text-purple-600'>
 						<FaTwitter />
 					</a>
-					<a href='/' className=' hover:text-purple-600'>
+					<a
+						href='https://www.instagram.com/col_in11?igsh=Y2Y5OThia3ZlYjMy'
+						target='_blank'
+						rel='noopener noreferrer'
+						className=' hover:text-purple-600'>
 						<FaInstagram />
 					</a>
-					<button onClick={openModal} className='bg-purple-500 px-6 py-2 font-medium rounded hover:bg-white hover:text-purple-500 transiton-all ease-in'>
+					<button
+						onClick={openModal}
+						className='bg-purple-500 px-6 py-2 font-medium rounded hover:bg-white hover:text-purple-500 transiton-all ease-in'>
 						Login
 					</button>
 				</div>
