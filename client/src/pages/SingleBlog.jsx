@@ -1,8 +1,9 @@
 import React from 'react';
-import { useLoaderData } from 'react-router-dom';
+import { useLoaderData, useNavigate } from 'react-router-dom';
 import { FaUser, FaClock } from 'react-icons/fa6';
 
 const SingleBlog = () => {
+	const navigate = useNavigate();
 	const data = useLoaderData();
 	const {
 		title,
@@ -49,11 +50,22 @@ const SingleBlog = () => {
 							Lorem ipsum dolor sit amet consectetur adipisicing
 							elit. Ea earum consequatur quidem, unde cum
 							blanditiis eos voluptatum sit consectetur! Ipsam.
-            </p>
-            <br />
-						<p>
-							Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium ipsa dolores, esse corporis nesciunt rem natus ad recusandae fugiat officia sit excepturi vero. Numquam deleniti neque excepturi? Unde, suscipit asperiores?
 						</p>
+						<br />
+						<p>
+							Lorem ipsum dolor sit, amet consectetur adipisicing
+							elit. Laudantium ipsa dolores, esse corporis
+							nesciunt rem natus ad recusandae fugiat officia sit
+							excepturi vero. Numquam deleniti neque excepturi?
+							Unde, suscipit asperiores?
+						</p>
+						<div className='flex justify-center'>
+							<button
+								onClick={() => navigate('/')}
+								className='bg-purple-500 text-black px-6 py-2 font-medium rounded hover:bg-orange-600 hover:text-black transiton-all ease-in'>
+								Back
+							</button>
+						</div>
 					</div>
 				</div>
 			</div>
