@@ -1,4 +1,5 @@
 import React from 'react';
+
 // CategorySelection component
 const CategorySelection = ({ onSelectCategory, activeCategory }) => {
 	// Categories array
@@ -11,6 +12,7 @@ const CategorySelection = ({ onSelectCategory, activeCategory }) => {
 		'Social Media',
 		'Tech',
 	];
+	
 	// Return JSX
 	return (
 		<div className='px-4 mb-8 lg:space-x-16 flex flex-wrap items-center border-b-2 py-5 text-gray-900 font-semibold'>

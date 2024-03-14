@@ -21,7 +21,9 @@ npm install --global yarn
 
 git clone https://github.com/opiyoxbenji/beaver-news.git
 
-<h6>Navigate to the server directory and install dependencies:
+<h4>Installation
+
+**Navigate to the server directory and install dependencies:**
 
 cd server
 yarn install
@@ -36,3 +38,9 @@ yarn install
 
 **Start the client:**
 yarn run dev
+
+
+<h3>Credits
+
+* Benjamin Paul Opiyo - https://twitter.com/Opiyos_Benji // https://github.com/opiyoxbenji
+* Colin Earle - https://github.com/Jassocc

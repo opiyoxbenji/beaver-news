@@ -1,4 +1,5 @@
 import React from 'react';
+
 // Modal component
 const Modal = ({ isOpen, onClose }) => {
 	// Render modal only if it is open
@@ -10,7 +11,7 @@ const Modal = ({ isOpen, onClose }) => {
 			<div className='modal-container'>
 				<div className='bg-orange-500 text-center p-5 h-96 lg:w-[500px] rounded shadow-md'>
 					{/* content */}
-					<h2 className='text-xl font-semibold mb-4 mt-6 mb-5 uppercase'>
+					<h2 className='text-xl font-semibold  mt-6 mb-5 uppercase'>
 						Please login here
 					</h2>
 					<form className='px-4'>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaUser } from 'react-icons/fa6';
 import { Link } from 'react-router-dom';
+
 // BlogCards component
 const BlogCards = ({ blogs, currentPage, selectedCategory, pageSize }) => {
 	// Filter and slice the blogs based on current page and selected category
@@ -10,6 +11,7 @@ const BlogCards = ({ blogs, currentPage, selectedCategory, pageSize }) => {
 		)
 		.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 	console.log(filteredBlogs);
+
 	return (
 		<div className='grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8'>
 			{filteredBlogs.map(blog => (

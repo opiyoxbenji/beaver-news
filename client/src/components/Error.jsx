@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+
 // Error component
 const Error = () => {
 	// Render error content
@@ -12,7 +13,7 @@ const Error = () => {
 							<span className='sr-only'>Error</span>404
 						</h2>
 						<p className='text-2xl font-semibold md:text-3xl'>
-							Sorry, we couldn't find this page.
+							Sorry, that page is not available.
 						</p>
 						<p className='mt-4 mb-8 dark:text-gray-400'>
 							But dont worry, you can find plenty of other things

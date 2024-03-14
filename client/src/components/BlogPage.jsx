@@ -12,6 +12,7 @@ const BlogPage = () => {
 	const pageSize = 12; // blogs per page
 	const [selectedCategory, setSelectedCategory] = useState(null);
 	const [activeCategory, setActiveCategory] = useState(null);
+
 // useEffect to fetch blogs based on current page and selected category
 	useEffect(() => {
 		async function fetchBlogs() {
@@ -24,6 +25,7 @@ const BlogPage = () => {
 			const response = await fetch(url);
 			const data = await response.json();
 			console.log(data);
+
 			// Update blogs state with fetched data
 			setBlogs(data);
 		}
@@ -34,12 +36,14 @@ const BlogPage = () => {
 	const handlePageChange = pageNumber => {
 		setCurrentPage(pageNumber);
 	};
-// Function to handle category changes
+
+	// Function to handle category changes
 	const handleCategoryChange = category => {
 		setSelectedCategory(category);
 		setCurrentPage(1); // Reset page to 1 when category changes
 		setActiveCategory(category);
 	};
+
 	return (
 		<div>
 			{/* category section */}

@@ -1,9 +1,11 @@
-import React from 'react';
+// For the next, previous and page numbers
+
 // Pagination component
 const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
-	 // Calculate total pages based on the number of blogs and page size
+	// Calculate total pages based on the number of blogs and page size
 	const totalPages = Math.ceil(blogs.length / pageSize);
-// Function to render pagination links
+
+	// Function to render pagination links
 	const renderPaginationLinks = () => {
 		// Create an array of page numbers
 		return Array.from({ length: totalPages }, (_, i) => i + 1).map(
@@ -20,7 +22,8 @@ const Pagination = ({ onPageChange, currentPage, blogs, pageSize }) => {
 			)
 		);
 	};
-// Render Pagination component
+
+	// Render Pagination component
 	return (
 		<ul className='pagination my-8 flex-wrap gap-4'>
 			<li>
