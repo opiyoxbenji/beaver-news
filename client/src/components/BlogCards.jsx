@@ -1,8 +1,9 @@
 import React from 'react';
 import { FaUser } from 'react-icons/fa6';
 import { Link } from 'react-router-dom';
-
+// BlogCards component
 const BlogCards = ({ blogs, currentPage, selectedCategory, pageSize }) => {
+	// Filter and slice the blogs based on current page and selected category
 	const filteredBlogs = blogs
 		.filter(
 			blogs => !selectedCategory || blogs.category === selectedCategory
@@ -34,5 +35,5 @@ const BlogCards = ({ blogs, currentPage, selectedCategory, pageSize }) => {
 		</div>
 	);
 };
-
+// Export BlogCards component
 export default BlogCards;
