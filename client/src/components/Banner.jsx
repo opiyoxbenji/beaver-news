@@ -1,7 +1,7 @@
 // import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa6';
-
+// Banner component
 const Banner = () => {
 	return (
 		<div className='px-4 py-32 bg-blue-950 mx-auto'>
@@ -22,5 +22,5 @@ const Banner = () => {
 		</div>
 	);
 };
-
+// Export Banner component
 export default Banner;
