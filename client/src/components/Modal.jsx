@@ -1,6 +1,7 @@
 import React from 'react';
-
+// Modal component
 const Modal = ({ isOpen, onClose }) => {
+	// Render modal only if it is open
 	return (
 		<div
 			className={`fixed top-0 left-0 w-full h-full flex items-center justify-center ${
@@ -49,5 +50,5 @@ const Modal = ({ isOpen, onClose }) => {
 		</div>
 	);
 };
-
+// Export Modal component
 export default Modal;
