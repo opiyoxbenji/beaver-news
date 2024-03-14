@@ -1,5 +1,5 @@
 import React from 'react';
-
+// Contact component
 const Contact = () => {
 	return (
 		<div className='py-40 bg-blue-950 text-center text-white px-4'>
@@ -63,5 +63,5 @@ const Contact = () => {
 		</div>
 	);
 };
-
+// Export Contact component
 export default Contact;
