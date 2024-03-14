@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from '../components/Footer';
-
+// About component
 const About = () => {
 	return (
 		<div className='py-40 bg-blue-950 text-center text-white px-4'>
@@ -477,5 +477,5 @@ const About = () => {
 		</div>
 	);
 };
-
+// export component
 export default About;
