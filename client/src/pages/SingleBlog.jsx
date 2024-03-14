@@ -2,9 +2,11 @@ import React from 'react';
 import { useLoaderData, useNavigate } from 'react-router-dom';
 import { FaUser, FaClock } from 'react-icons/fa6';
 
+// SingleBlog component
 const SingleBlog = () => {
-	const navigate = useNavigate();
-	const data = useLoaderData();
+	const navigate = useNavigate(); // Navigation hook
+	const data = useLoaderData(); // Loader data hook
+	// Destructuring data object
 	const {
 		title,
 		image,
@@ -14,7 +16,7 @@ const SingleBlog = () => {
 		reading_time,
 		content,
 	} = data[0];
-
+// Return JSX for rendering SingleBlog component
 	return (
 		<div>
 			<div className='py-40 bg-blue-950 text-center text-white px-4'>
