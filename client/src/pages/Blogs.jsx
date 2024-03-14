@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import BlogPage from "../components/BlogPage"
-
+// Blogs component
 const Blogs = () => {
   return (
     <div>
@@ -16,5 +16,5 @@ const Blogs = () => {
     </div>
   )
 }
-
+// Export Blogs component
 export default Blogs
