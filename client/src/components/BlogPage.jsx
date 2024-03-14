@@ -4,13 +4,15 @@ import Pagination from './Pagination';
 import CategorySelection from './CategorySelection';
 import SideBar from './SideBar';
 
+// BlogPage component
 const BlogPage = () => {
+	// State variables
 	const [blogs, setBlogs] = useState([]);
 	const [currentPage, setCurrentPage] = useState(1);
 	const pageSize = 12; // blogs per page
 	const [selectedCategory, setSelectedCategory] = useState(null);
 	const [activeCategory, setActiveCategory] = useState(null);
-
+// useEffect to fetch blogs based on current page and selected category
 	useEffect(() => {
 		async function fetchBlogs() {
 			let url = `http://localhost:5000/blogs?page=${currentPage}&limit=${pageSize}`;
@@ -22,6 +24,7 @@ const BlogPage = () => {
 			const response = await fetch(url);
 			const data = await response.json();
 			console.log(data);
+			// Update blogs state with fetched data
 			setBlogs(data);
 		}
 		fetchBlogs();
@@ -31,10 +34,10 @@ const BlogPage = () => {
 	const handlePageChange = pageNumber => {
 		setCurrentPage(pageNumber);
 	};
-
+// Function to handle category changes
 	const handleCategoryChange = category => {
 		setSelectedCategory(category);
-		setCurrentPage(1);
+		setCurrentPage(1); // Reset page to 1 when category changes
 		setActiveCategory(category);
 	};
 	return (
@@ -74,5 +77,5 @@ const BlogPage = () => {
 		</div>
 	);
 };
-
+// Export BlogPage component
 export default BlogPage;
