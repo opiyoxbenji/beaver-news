@@ -1,7 +1,8 @@
 import React from 'react';
 import { FaSquareXTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa6';
-
+// Footer component
 const Footer = () => {
+	// Render footer content
 	return (
 		<div className='bg-blue-950'>
 			<div className='px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-4'>
@@ -186,5 +187,5 @@ const Footer = () => {
 		</div>
 	);
 };
-
+// Export Footer component
 export default Footer;
