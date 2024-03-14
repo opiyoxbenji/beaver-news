@@ -9,7 +9,7 @@ import About from './pages/About.jsx';
 import Contact from './pages/Contact.jsx';
 import SingleBlog from './pages/SingleBlog.jsx';
 import Error from './components/Error.jsx';
-
+// Define routes
 const router = createBrowserRouter([
 	{
 		path: '/',
@@ -44,7 +44,7 @@ const router = createBrowserRouter([
 		],
 	},
 ]);
-
+// Render the application
 ReactDOM.createRoot(document.getElementById('root')).render(
 	<React.StrictMode>
 		<RouterProvider router={router} />
