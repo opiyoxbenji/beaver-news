@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+// Error component
 const Error = () => {
+	// Render error content
 	return (
 		<div>
 			<section className='flex items-center h-full p-16 dark:bg-gray-900 dark:text-gray-100'>
@@ -30,5 +31,5 @@ const Error = () => {
 		</div>
 	);
 };
-
+// Export Error component
 export default Error;
