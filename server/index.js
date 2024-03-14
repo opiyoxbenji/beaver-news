@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/blogs', (req, res) => {
-  res.send(blogs // Sending all blogs data as response
+  res.send(blogs) // Sending all blogs data as response
 })
 app.get('/blogs/:id', (req, res) => {
   const id = parseInt(req.params.id); // Extracting blog ID from URL parameter
