@@ -8,17 +8,18 @@ import {
 	FaInstagram,
 	FaBars,
 	FaXmark,
-} from 'react-icons/fa6';
+} from 'react-icons/fa6'; // Import FaTimes icon from react-icons/fa
 import Modal from './Modal';
-
+// Navbar component
 const Navbar = () => {
+	 // State for menu and modal
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const [isModalOpen, setIsModalOpen] = useState(false);
-
+// Function to toggle menu
 	const toggleMenu = () => {
 		setIsMenuOpen(!isMenuOpen);
 	};
-
+// Navigation items
 	const navItems = [
 		{ path: '/', link: 'Home' },
 		{ path: '/about', link: 'About' },
@@ -30,10 +31,11 @@ const Navbar = () => {
 	const openModal = () => {
 		setIsModalOpen(true);
 	};
-
+ // Function to close modal
 	const closeModal = () => {
 		setIsModalOpen(false);
 	};
+	  // Render Navbar component
 	return (
 		<header className='bg-blue-950 text-white fixed top-0 left-0 right-0'>
 			<nav className='px-4 py-4 max-w-7xl mx-auto flex justify-between items-center'>
@@ -116,5 +118,5 @@ const Navbar = () => {
 		</header>
 	);
 };
-
+// Export Navbar component
 export default Navbar;
