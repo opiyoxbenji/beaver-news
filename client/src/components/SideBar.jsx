@@ -1,15 +1,17 @@
 import React, { useEffect, useState } from 'react';
 import { FaArrowRight } from 'react-icons/fa6';
 import { Link } from 'react-router-dom';
-
+// Sidebar component
 const SideBar = () => {
+	// State to store popular blogs
 	const [popularBlogs, setPopularBlogs] = useState([]);
-
+  // Fetch popular blogs data on component mount
 	useEffect(() => {
 		fetch('http://localhost:5000/blogs')
 			.then(res => res.json())
-			.then(data => setPopularBlogs(data.slice(0, 12)));
+			.then(data => setPopularBlogs(data.slice(0, 12))); // Slice the data to get first 12 blogs
 	}, []);
+	// Render Sidebar component
 	return (
 		<div>
 			<div>
@@ -32,5 +34,5 @@ const SideBar = () => {
 		</div>
 	);
 };
-
+// Export Sidebar component
 export default SideBar;
