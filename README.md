@@ -1,13 +1,14 @@
-**`<h1>`BEAVER NEWS`</h1>`**
+<h1>BEAVER NEWS
+
 
 <h2>About the Project</h2>
 
 ![1710397193152](image/README/1710397193152.png)**Built With**
 
--   React
--   Tailwind Css
--   Cors
--   Express
+- React
+- Tailwind Css
+- Cors
+- Express
 
 <h2>Getting Started
 
